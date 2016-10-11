@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><maven>
+	<artifacts>nabu:eai-module-http-server</artifacts>
+	<internalDomains>nabu</internalDomains>
+	<internalDomains>be.nabu.libs.http</internalDomains>
+	<updateSnapshots>false</updateSnapshots>
+</maven>
