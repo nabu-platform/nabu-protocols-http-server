@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>nabu.protocols.http</groupId>
 	<artifactId>server</artifactId>
-	<version>1.1</version>
+	<version>${nabu.protocols.http-server-version}</version>
 	<name>server</name>
 	
 	<parent>
