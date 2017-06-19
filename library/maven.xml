@@ -3,4 +3,9 @@
 	<internalDomains>nabu</internalDomains>
 	<internalDomains>be.nabu.libs.http</internalDomains>
 	<updateSnapshots>false</updateSnapshots>
+	<provided>be.nabu.libs.http:http-server</provided>
+	<provided>be.nabu.libs.types:types-binding-json</provided>
+	<provided>be.nabu.libs.types:types-map</provided>
+	<provided>org.slf4j:slf4j-api</provided>
+	<provided>ch.qos.logback:logback-classic</provided>
 </maven>
